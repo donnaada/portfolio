@@ -100,7 +100,7 @@ class Header extends Component {
         <div className="row aligner" style={{height: '100%'}}>
           <div className="col-md-12">
             <div>
-              <span className="iconify header-icon" data-icon="la:laptop-code" data-inline="false"></span>
+              <img src={this.props.logo} alt="logo" className="my-3" style={{width: '10rem'}} />
               <br/>
               <h1 className="mb-0">
                 {name}
