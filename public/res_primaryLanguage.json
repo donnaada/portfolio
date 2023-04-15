@@ -101,7 +101,37 @@
           "Bootstrap",
           "TailwindsCSS",
           "Query400",
+          "AS400",
+          "JD Edwards",
+          "Ca2E"
+        ]
+      },
+      {
+        "company": "Commonwealth Healthcare Corporation",
+        "title": "Computer Programmer",
+        "years": "05.2017 - 10.2018",
+        "mainTech": [
+          "<abbr title=\"Indian Health Services\">IHS</abbr> Electronic Health Record"
+        ],
+        "technologies": [
+          "R",
+          "AS400",
+          "JD Edwards",
+          "IHS EHR"
+        ]
+      },
+      {
+        "company": "CNMI Office of Information Technology",
+        "title": "Computer Programmer Trainee",
+        "years": "09.2014- 05.2018",
+        "mainTech": [
           "AS400"
+        ],
+        "technologies": [
+          "Query400",
+          "AS400",
+          "JD Edwards",
+          "Ca2E"
         ]
       }
     ]
