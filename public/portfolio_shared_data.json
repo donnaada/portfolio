@@ -20,47 +20,37 @@
       "icons": [
         {
           "name": "HTML 5",
-          "class": "devicon-html5-plain",
+          "class": "devicon-html5-plain colored",
           "level": "95"
         },
         {
           "name": "CSS 3",
-          "class": "devicon-css3-plain",
+          "class": "devicon-css3-plain colored",
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
-        },
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
-        },
-        {
           "name": "JavaScript",
-          "class": "devicon-javascript-plain",
+          "class": "devicon-javascript-plain colored",
           "level": "70"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
+          "name": "Tailwind",
+          "class": "devicon-tailwindcss-plain colored",
           "level": "75"
         },
         {
           "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
+          "class": "devicon-bootstrap-plain colored",
           "level": "85"
         },
         {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
+          "name": "GitHub",
+          "class": "devicon-github-plain",
           "level": "65"
         },
         {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
+          "name": "Git",
+          "class": "devicon-git-plain colored",
           "level": "60"
         }
       ]
