@@ -93,8 +93,7 @@ class Header extends Component {
                     color: "#353239",
                   }}
                 ></span>
-              }
-              id="icon-switch"
+              }g
             />
           </Nav.Item>
         </Nav>
