@@ -1,13 +1,13 @@
 {
     "basic_info": {
       "name": "Donna Marie Ada",
-      "titles": [ "Code, Coffee, and Mom" ],
+      "titles": [ "Caffeinated Coding Boy-Mom" ],
       "social": [
         {
           "name": "github",
           "url": "https://github.com/donnaada",
           "class": "fab fa-github"
-        },
+        }, 
         {
           "name": "linkedin",
           "url": "https://www.linkedin.com/in/donnaada/",
