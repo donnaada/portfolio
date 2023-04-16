@@ -81,7 +81,7 @@ header .nav {
 }
 
 .skills-tile {
-	background-color: transparentize(#F8F5F4, 0.95);
+	background-color: transparentize(#ffffff, 0.85);
 	padding: 10px 10px 5px 10px;
 	width: 100px;
 	margin: 5px 0 5px 0;
@@ -394,10 +394,12 @@ header h1 {
 }
 
 #skills {
-	background: #1F1F1F;
+	background: linear-gradient(45deg, rgba(44, 44, 44, 0.5),rgba(29, 29, 29, 0.5)), url('../public/images/bg-blue.jpg') no-repeat top fixed;
+	background-size: cover;
 	min-height: 200px;
 	width: 100%;
-	overflow: hidden;
+	
+	// overflow: hidden;
 	padding-bottom: 10%;
 }
 
